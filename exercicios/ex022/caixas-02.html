@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(121, 121, 121);
+            margin: 0px;
+        }
+        header{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+            text-align: center;
+            border-radius: 20px;
+
+        }
+        nav {
+            background-color: rgb(155, 155, 155);
+            padding: 3px;
+            box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+            border-radius: 33px;
+
+        }
+        nav > a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold; 
+            margin-right: 30px;
+            
+        }
+        nav > a:hover{
+            text-decoration: underline;
+            color: yellow;
+        }
+        main{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 20px;
+        }
+        article{
+            background-color: rgb(206, 206, 206);
+            padding: 5px;
+            border-radius: 20px;
+
+        }
+        article > aside{
+            background-color: rgb(134, 134, 134);
+            border-radius: 33px;
+
+        }
+        footer{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 5px;
+            margin: 0px;
+        }
+        footer > p {
+            margin: 0px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <article>
+                <h2>Noticia sobre o Brasil</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima cum mollitia dicta! Nihil deserunt eligendi maiores beatae suscipit, quos recusandae dolores adipisci eos reprehenderit molestias, officia amet exercitationem aliquam ipsum.</p>
+                <aside>
+                    <p>Artigo escrito por Juka</p>
+            </aside>
+            </article>
+        </section>
+        <section id="noticias">
+            <article>
+                <h2>Esportes</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus numquam incidunt ea amet laborum reiciendis aliquid, temporibus voluptas exercitationem non repellendus quia facere molestias blanditiis nihil modi accusantium maxime repudiandae?</p>
+                <aside>Escrito Por Juka</aside>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvido pelo Juka</p>
+    </footer>
+</body>
+</html>

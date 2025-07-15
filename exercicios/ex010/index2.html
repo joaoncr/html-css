@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Links</title>
+</head>
+
+<body>
+    <h1>Usando links externos</h1>
+    <p>Você pode acessar o Youtube por meio desse <a href="https://www.youtube.com/" target="_blank" rel="external">link</a>.</p>
+</body>
+</html>
+
+<!-- rel="prev" e rel="next" são atributos de link HTML usados para indicar a relação entre páginas em uma sequência, como em um blog ou site de artigos. rel="prev" indica que a página atual é a página anterior, enquanto rel="next" indica que é a página seguinte. Estes atributos ajudam os motores de busca a entender a estrutura da página e a indexar corretamente. -->
+
+<a href="/page2" rel="prev">Página Anterior</a>
+<a href="/page4" rel="next">Próxima Página</a>
+
+<!-- Neste exemplo, o link para https://www.exemplo.com é marcado como nofollow, o que significa que os mecanismos de busca não devem seguir esse link para fins de SEO: -->
+
+<a href="https://www.exemplo.com" rel="nofollow">Este é um link nofollow</a>
