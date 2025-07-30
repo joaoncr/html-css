@@ -17,3 +17,10 @@ Repositório para organização de arquivos e criação de projetos relacionados
 * Desafio 13 -Parte 1 - [Expansão de Tabelas](https://joaoncr.github.io/html-css/desafios/d13/pt1.html)
 * Desafio 13- Parte 2 - [Expansão de Tabelas](https://joaoncr.github.io/html-css/desafios/d13/pt2.html)
 * Desafio 14 - [Tabela de Notas Escolares](https://joaoncr.github.io/html-css/desafios/d14/index.html)
+
+## Links Úteis
+
+* [Curso em Vídeo](https://www.cursoemvideo.com/)
+* [Playlist do Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+* Professor: [Gustavo Guanabara](https://github.com/gustavoguanabara) 🖖🏻
+* [Repositório do Curso](https://github.com/gustavoguanabara/html-css)
