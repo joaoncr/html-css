@@ -2,4 +2,4 @@
 Repositório para organização de arquivos e criação de projetos relacionados ao curso.
 
 ## Desafios e Projetos
-* Desafio 1 - [Desafio das Mensagens]([(https://joaoncr.github.io/html-css/desafios/d01)])
+* Desafio 1 - [Desafio das Mensagens](https://joaoncr.github.io/html-css/desafios/d01/index.html)
