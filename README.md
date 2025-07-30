@@ -1,2 +1,2 @@
-# html-css
-Curso de HTML5 e CSS3 do CursoemVideo.
+# Curso de HTML-CSS - CursoemVideo
+Repositório para organização de arquivos e criação de projetos relacionados ao curso.
