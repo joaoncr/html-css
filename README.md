@@ -12,7 +12,6 @@ Repositório para organização de arquivos e criação de projetos relacionados
 * Desafio 8 - [Desafio da Navegação](https://joaoncr.github.io/html-css/desafios/d08/index.html)
 * Desafio 9 - [Vídeos Legais para Assistir](https://joaoncr.github.io/html-css/desafios/d09/index.html)
 * Desafio 10 - [Projeto Android](https://joaoncr.github.io/html-css/desafios/d10/android-site.html)
-* Desafio 11 - [Desafio do Astronauta](https://joaoncr.github.io/html-css/desafios/d01/index.html)
 * Desafio 12 - [Cordel Moderno](https://joaoncr.github.io/html-css/desafios/d12/index.html)
 * Desafio 13 - Parte 1 - [Expansão de Tabelas](https://joaoncr.github.io/html-css/desafios/d13/pt1.html)
 * Desafio 13- Parte 2 - [Expansão de Tabelas](https://joaoncr.github.io/html-css/desafios/d13/pt2.html)
