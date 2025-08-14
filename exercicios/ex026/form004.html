@@ -13,22 +13,25 @@
 <body>
     <h1>Teste de Formulário</h1>
     <form action="cadastro.php" method="get" autocomplete="on">
-        <p>
-            <label for="inome">Nome Completo:</label>
-            <input type="text" name="nome" id="inome" autocomplete="name" placeholder="Digite seu nome">
-        </p>
-        <p>
-            <label for="iemail">E-mail:</label>
-            <input type="email" name="email" id="iemail" autocomplete="email" required placeholder="Digite seu e-mail" size="30">
-        </p>
-        <p>
-            <label for="itel">Telefone:</label>
-            <input type="tel" name="tel" id="itel" autocomplete="tel" required placeholder="Digite seu telefone" size="15" pattern="^\d{4,5}-\d{4}$">
-        </p>
-        <p>
-            <input type="submit" value="Enviar">
-            <input type="reset" value="Limpar">
-        </p>
+        <fieldset>
+            <legend>Cadastro</legend>
+            <p>
+                <label for="inome">Nome Completo:</label>
+                <input type="text" name="nome" id="inome" autocomplete="name" placeholder="Digite seu nome">
+            </p>
+            <p>
+                <label for="iemail">E-mail:</label>
+                <input type="email" name="email" id="iemail" autocomplete="email" required placeholder="Digite seu e-mail" size="30">
+            </p>
+            <p>
+                <label for="itel">Telefone:</label>
+                <input type="tel" name="tel" id="itel" autocomplete="tel" size="15" pattern="^\(\d{2})\d{4,5}-\d{4}$" placeholder="(XX)XXXX-XXXX">
+            </p>
+        </fieldset>
+            <p>
+                <input type="submit" value="Enviar">
+                <input type="reset" value="Limpar">
+            </p>
     </form>
 </body>
 </html>
